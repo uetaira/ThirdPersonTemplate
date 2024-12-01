@@ -3,6 +3,7 @@
 
 #include "OurCharacter.h"
 
+class UNiagaraFunctionLibrary;
 // Sets default values
 AOurCharacter::AOurCharacter()
 {
